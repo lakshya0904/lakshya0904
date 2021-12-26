@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Lakshya Agarwal.
 - 🌱 I’m currently pursuing my Bachelor's degree in Computer Science from BITS Pilani(Class of 2022).
 - 👀 Looking forward to use learnt concepts in some real world application along with their challenges.
-                    - Work on projects that have significance beyond just for learning purpose
-                    - Gaining experience in matters of professional relationship and teamwork on a real project
-                    - Learn new technologies, expand my skill sets, and get acquainted with industry standards and guidelines
+-                     - Work on projects that have significance beyond just for learning purpose
+-                     - Gaining experience in matters of professional relationship and teamwork on a real project
+-                     - Learn new technologies, expand my skill sets, and get acquainted with industry standards and guidelines
 - 💞️ I’m currently collaborating with Akamai Technologies as a Summer Intern.
 - 📫 Reach me out at: lakshya0904@gmail.com.
 
